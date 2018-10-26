@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - GQTool (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - GQTool (from `../`)
+
+EXTERNAL SOURCES:
+  GQTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: '094f9f314decbabe373b87cc339bea235a63e07a'
+  GQTool: 74a097726061e73784ce16b5b464a266de827de5
+
+PODFILE CHECKSUM: 6ceaa17d86cd1d9cb49f7c37b0f0f9f7ebd0931d
+
+COCOAPODS: 1.1.1

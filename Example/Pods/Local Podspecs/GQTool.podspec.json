@@ -1,0 +1,22 @@
+{
+  "name": "GQTool",
+  "version": "0.1.0",
+  "summary": "A short description of GQTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lin-it/GQTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lin-it": "guoqiang.lin@husor.com"
+  },
+  "source": {
+    "git": "https://github.com/lin-it/GQTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GQTool/Classes/**/*"
+}

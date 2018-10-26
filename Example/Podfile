@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GQTool_Example' do
+  pod 'GQTool', :path => '../'
+
+  target 'GQTool_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
